@@ -36,7 +36,7 @@ main {
 }
 
 .intro-wrapper{
-  height: calc(100vh - 60px);
+  /* height: calc(100vh - 60px); */
   display: flex;
  justify-content: center;
  margin-bottom: 2em;
@@ -352,7 +352,7 @@ footer{
   }
 }
 
-@media(width<750px){
+@media(width<850px){
   .intro{
     flex-direction: column-reverse;
     height: 100%;
@@ -396,7 +396,7 @@ footer{
 
 }
 
-@media (max-height: 650px) {
+@media (max-height: 700px) {
   .square-1 {
     width: 215px;
     height: 200px;
