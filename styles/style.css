@@ -284,6 +284,7 @@ a{
  box-shadow: -5px 5px 5px 000000;
  transition: box-shadow 0.3s ease, transform 0.3s ease;
  cursor: pointer;
+ 
 }
 
 .project:hover{
@@ -360,7 +361,7 @@ footer{
   }
 }
 
-@media(width<850px){
+@media(width<950px){
   .intro{
     flex-direction: column-reverse;
     height: 100%;
