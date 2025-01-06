@@ -36,7 +36,7 @@ main {
 }
 
 .intro-wrapper{
-  /* height: calc(100vh - 60px); */
+  height: 75vh;
   display: flex;
  justify-content: center;
  margin-bottom: 2em;
@@ -50,7 +50,7 @@ a{
 .intro {
   display: flex;
   background: #f9e7eb;
-  margin: 20px 20px 40px 20px;
+  margin: 20px 20px 20px 20px;
   width: 90%;
 }
 
@@ -263,11 +263,15 @@ a{
 .demo{
   width: 100%;
   padding: 0 3.5rem;
-
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: stretch;
 }
 
 .project{
   display: flex;
+  flex:1;
  justify-content: space-evenly;
  border: 1.5px solid #333;
  background-color: #FDFDFD;
