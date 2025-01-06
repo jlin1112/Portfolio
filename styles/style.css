@@ -269,9 +269,13 @@ a{
   align-items: stretch;
 }
 
+.demo a{
+  flex: 1;
+}
+
 .project{
   display: flex;
-  flex:1;
+  
  justify-content: space-evenly;
  border: 1.5px solid #333;
  background-color: #FDFDFD;
