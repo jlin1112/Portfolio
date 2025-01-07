@@ -406,7 +406,7 @@ footer{
 
 }
 
-/* @media (max-height: 400px) {
+@media (max-height: 600px) {
   .square-1 {
     width: 215px;
     height: 200px;
@@ -421,4 +421,4 @@ footer{
     width: 175px;
     height: 175px;
   }
-} */
+}
