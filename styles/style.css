@@ -369,6 +369,7 @@ footer{
   }
   .picture{
     top: 40px;
+    /* height: 300px; */
   }
   .greeting button{
     align-self: center;
@@ -405,7 +406,7 @@ footer{
 
 }
 
-@media (max-height: 700px) {
+/* @media (max-height: 400px) {
   .square-1 {
     width: 215px;
     height: 200px;
@@ -420,4 +421,4 @@ footer{
     width: 175px;
     height: 175px;
   }
-}
+} */
