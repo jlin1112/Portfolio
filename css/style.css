@@ -126,6 +126,11 @@ body {
   align-items: baseline;
   gap: 0.5rem;
   cursor: pointer;
+  
+}
+
+.cv{
+  text-decoration: none;
 }
 
 .projects {
