@@ -147,6 +147,7 @@ body {
   display: flex;
   flex-direction: row;
   margin-bottom: 6rem;
+  gap: 2rem;
   /* justify-content: space-between; */
   /* width: 100%; */
   /* background-color: aqua; */
